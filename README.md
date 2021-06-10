@@ -1,5 +1,4 @@
 # 2012-Pisa
-# Udacity project
 ## PISA 2012 Visualization
 ## by Zack Tobin
 
