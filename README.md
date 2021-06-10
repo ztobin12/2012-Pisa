@@ -1,6 +1,5 @@
-# 2012-Pisa
-## PISA 2012 Visualization
-## by Zack Tobin
+# PISA 2012 Visualization
+## by Zack Tobinztobin12
 
 ## Dataset
 This project explores the Program for International Student Assesment PISA (2012) dataset. PISA is survey that tests students around the world, not just on their ability to understand the school curriculum, but on how prepared they are for life after school.
